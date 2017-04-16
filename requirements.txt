@@ -1,3 +1,4 @@
 speechrecognition
+sphinx
 watson_developer_cloud
 PyAudio
